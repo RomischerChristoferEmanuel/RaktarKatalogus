@@ -22,4 +22,4 @@ for (int i = 0; i < 3; i++)
     Console.WriteLine();
 } 
 
-Console.WriteLine(osszes.Count);
+//4. feladat
